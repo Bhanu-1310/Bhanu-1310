@@ -1,18 +1,91 @@
-<h1 align="center">Hey there 👋, I'm Bhanu Arora</h1>
-<h3 align="center">An Artificial Intelligence and Machine Learning student.</h3>
+# 👋 Hi, I'm Bhanu Arora
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, MySql and Data Structures.**
+🚀 AI & ML Engineer | Cybersecurity Enthusiast | Data Analyst  
 
-- 💬 Ask me about **C++, AI&ML**
+I build **secure, scalable, and production-ready AI systems** with a strong foundation in machine learning, cloud, and automation.
 
-- 📫 How to reach me **bhanurora1310@outlook.com**
+---
 
-- 📄 Resume Link [https://drive.google.com/file/d/1DcsEnEpg7GpaTB0NEv6MZf2jt7j0R34b/view?usp=drive_link](https://drive.google.com/file/d/1DcsEnEpg7GpaTB0NEv6MZf2jt7j0R34b/view?usp=drive_link)
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhanu-arora-53b1a0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu-arora-53b1a0209" height="30" width="40" /></a>
-</p>
+- 🎓 B.Tech CSE (AI & ML) – VIT Bhopal (2024)
+- ☁️ Skilled in **Cloud + MLOps + Security-first AI systems**
+- 🔐 Background in **Cybersecurity & Threat Detection**
+- 🤖 Focused on **Generative AI, NLP & Automation**
+- 📊 Strong in **Data Analysis & Visualization**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## ⚙️ Tech Stack
+
+### 💡 AI / ML
+`Machine Learning` `Deep Learning` `NLP` `LLMs` `RAG` `Prompt Engineering`
+
+### 🧰 Tools & Frameworks
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `OpenCV`
+
+### ☁️ Cloud & MLOps
+`Azure` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD` `ML Pipelines`
+
+### 📊 Data & Analytics
+`SQL` `NoSQL` `Power BI` `Tableau` `EDA` `Data Visualization`
+
+### 🔐 Cybersecurity
+`Azure Security` `Microsoft Sentinel` `SIEM` `Threat Detection` `Incident Response`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 AI-Powered Phishing Detection System
+- Built ML model using **Scikit-learn + NLP** for phishing classification  
+- Integrated **Microsoft Graph API + IRONSCALES API**  
+- Achieved **92% detection accuracy**  
+
+**Tech:** Python, NLTK, Scikit-learn, M365  
+
+---
+
+### ⚡ Security Automation Framework (Azure)
+- Automated incident response using **Microsoft Sentinel + Logic Apps**  
+- Reduced manual effort by **60%**  
+
+**Tech:** Azure Sentinel, KQL, PowerShell, Python  
+
+---
+
+### 🛡️ Intrusion Detection & Threat Dashboard
+- Visualized phishing and attack trends using **Power BI**  
+- Delivered actionable threat intelligence  
+
+**Tech:** Power BI, Sentinel Logs, APIs  
+
+---
+
+## 📜 Certifications
+
+- 🏅 AZ-500: Microsoft Azure Security Technologies  
+- 🏅 ISC2 Candidate  
+
+---
+
+## 📈 What I’m Working On
+
+- Building **LLM-powered security tools**
+- Advancing in **MLOps & scalable AI systems**
+- Exploring **AI + Cybersecurity integration**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: bhanuarora1310@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/bhanu-arora-53b1a0209/  
+- 💻 GitHub: https://github.com/  
+
+---
+
+## ⚡ Personal Note
+
+I focus on building systems that are not just intelligent — but **secure, reliable, and production-ready**.  
+If you're working on AI, security, or cloud — let's collaborate.
