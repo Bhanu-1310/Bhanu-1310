@@ -81,7 +81,6 @@ I build **secure, scalable, and production-ready AI systems** with a strong foun
 
 - 📧 Email: bhanuarora1310@outlook.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhanu-arora-53b1a0209/  
-- 💻 GitHub: https://github.com/  
 
 ---
 
